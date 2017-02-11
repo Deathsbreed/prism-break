@@ -1,30 +1,7 @@
 [
   {
     "development_stage": "released",
-    "description": "Blockiert Werbeanzeigen und Verfolgungen überall im Internet mithilfe von Abonnements der Blockierregeln.",
-    "license_url": "https://bitbucket.org/adstomper/adblockedge/src/a7aaa868e017c1cd35b400813319d2084da3d418/LICENSE?at=default",
-    "logo": "adblock-edge.png",
-    "notes": "",
-    "privacy_url": "",
-    "source_url": "https://bitbucket.org/adstomper/adblockedge/",
-    "name": "Adblock Edge",
-    "tos_url": "",
-    "url": "https://addons.mozilla.org/firefox/addon/adblock-edge/",
-    "wikipedia_url": "",
-    "protocols": [],
-    "categories": [
-      {
-        "name": "Android",
-        "subcategories": [
-          "Web Browser Addons"
-        ]
-      }
-    ],
-    "slug": "adblock-edge"
-  },
-  {
-    "development_stage": "released",
-    "description": "Multiprotokoll-Chatclient für Apple OS X mit OTR-Features.",
+    "description": "Multiprotokoll-Chatclient für Apple macOS mit OTR-Features.",
     "license_url": "https://trac.adium.im/wiki/Development",
     "logo": "adium.png",
     "notes": "",
@@ -41,7 +18,7 @@
     ],
     "categories": [
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Instant Messaging",
           "IRC"
@@ -104,31 +81,6 @@
   },
   {
     "development_stage": "released",
-    "description": "OpenPGP-App für Android.",
-    "license_url": "https://github.com/thialfihar/apg/blob/master/AndroidManifest.xml",
-    "logo": "apg.png",
-    "notes": "",
-    "privacy_url": "",
-    "source_url": "https://github.com/thialfihar/apg",
-    "name": "APG",
-    "tos_url": "",
-    "url": "http://www.thialfihar.org/projects/apg/",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Android_Privacy_Guard",
-    "protocols": [
-      "GPG"
-    ],
-    "categories": [
-      {
-        "name": "Android",
-        "subcategories": [
-          "Email Encryption"
-        ]
-      }
-    ],
-    "slug": "apg"
-  },
-  {
-    "development_stage": "released",
     "description": "Elegante, minimale und flexible Linux&reg; distribution.",
     "license_url": "https://wiki.archlinux.org/index.php/Licenses",
     "logo": "arch-linux.png",
@@ -148,7 +100,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -228,7 +180,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "SIP Servers"
         ]
@@ -316,7 +268,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Finance"
         ]
@@ -363,7 +315,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Instant Messaging",
           "IRC"
@@ -402,7 +354,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Alternatives"
         ]
@@ -433,35 +385,6 @@
       }
     ],
     "slug": "bitmessage"
-  },
-  {
-    "development_stage": "released",
-    "description": "A free software disk space cleaner, privacy manager, and computer system optimizer.",
-    "license_url": "https://github.com/az0/bleachbit/blob/master/COPYING",
-    "logo": "bleachbit.png",
-    "notes": "BleachBit does not encrypt any of your data by default.",
-    "privacy_url": "",
-    "source_url": "https://github.com/az0/bleachbit",
-    "name": "BleachBit",
-    "tos_url": "",
-    "url": "http://bleachbit.sourceforge.net/",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/BleachBit",
-    "protocols": [],
-    "categories": [
-      {
-        "name": "GNU/Linux",
-        "subcategories": [
-          "Disk Encryption"
-        ]
-      },
-      {
-        "name": "Windows",
-        "subcategories": [
-          "Disk Encryption"
-        ]
-      }
-    ],
-    "slug": "bleachbit"
   },
   {
     "development_stage": "experimental",
@@ -502,7 +425,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Bookmark Sync"
         ]
@@ -576,7 +499,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mesh Networks"
         ]
@@ -696,7 +619,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mesh Networks"
         ]
@@ -771,7 +694,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Clients"
         ]
@@ -784,31 +707,6 @@
       }
     ],
     "slug": "claws-mail"
-  },
-  {
-    "development_stage": "released",
-    "description": "DNS-hosting-Dienst mit Unterstützung für DNSCrypt, DNSSec und Namecoin.",
-    "license_url": "",
-    "logo": "cloudns.png",
-    "notes": "",
-    "privacy_url": "https://cloudns.com.au/",
-    "source_url": "",
-    "name": "CloudNS",
-    "tos_url": "",
-    "url": "https://cloudns.com.au/",
-    "wikipedia_url": "",
-    "protocols": [
-      "DNS"
-    ],
-    "categories": [
-      {
-        "name": "Web Services",
-        "subcategories": [
-          "DNS"
-        ]
-      }
-    ],
-    "slug": "cloudns"
   },
   {
     "development_stage": "released",
@@ -843,7 +741,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mesh Networks"
         ]
@@ -949,7 +847,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Instant Messaging"
         ]
@@ -1033,35 +931,6 @@
   },
   {
     "development_stage": "released",
-    "description": "Firmware-Nachbesserung für Android-Geräte.",
-    "license_url": "https://source.android.com/source/licenses.html",
-    "logo": "cyanogenmod.png",
-    "notes": "",
-    "privacy_url": "http://www.cyanogenmod.org/docs/privacy",
-    "source_url": "https://github.com/CyanogenMod",
-    "name": "CyanogenMod",
-    "tos_url": "http://www.cyanogenmod.org/docs/terms",
-    "url": "http://www.cyanogenmod.org/",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/CyanogenMod",
-    "protocols": [],
-    "categories": [
-      {
-        "name": "Android",
-        "subcategories": [
-          "Operating Systems (Mobile)"
-        ]
-      },
-      {
-        "name": "iOS",
-        "subcategories": [
-          "Operating Systems (Mobile)"
-        ]
-      }
-    ],
-    "slug": "cyanogenmod"
-  },
-  {
-    "development_stage": "released",
     "description": "DAVdroid is an open-source CalDAV/CardDAV synchronization app for Android 4+.",
     "license_url": "https://github.com/bitfireAT/davdroid/blob/master/COPYING",
     "logo": "davdroid.png",
@@ -1108,7 +977,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -1161,7 +1030,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -1233,7 +1102,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -1347,7 +1216,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -1472,7 +1341,7 @@
   },
   {
     "development_stage": "released",
-    "description": "In Erlang/OTP geschriebener XMPP-Server für GNU/Linux und OS X.",
+    "description": "In Erlang/OTP geschriebener XMPP-Server für GNU/Linux und macOS.",
     "license_url": "https://github.com/processone/ejabberd/blob/master/COPYING",
     "logo": "ejabberd.png",
     "notes": "",
@@ -1497,7 +1366,7 @@
   },
   {
     "development_stage": "released",
-    "description": "Dateibasiertes Verschlüsselungstool für GNU/Linux, Mac OS X und Windows.",
+    "description": "Dateibasiertes Verschlüsselungstool für GNU/Linux, Mac macOS und Windows.",
     "license_url": "https://github.com/vgough/encfs/blob/master/COPYING",
     "logo": "encfs.png",
     "notes": "EncFS ist für Windows als Portierung \"encfs4win\" verfügbar.",
@@ -1522,7 +1391,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Disk Encryption"
         ]
@@ -1586,7 +1455,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mesh Networks"
         ]
@@ -1647,7 +1516,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Encryption"
         ]
@@ -1818,7 +1687,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -1836,13 +1705,38 @@
     "development_stage": "released",
     "description": "Schneller, flexibler und sicherer Browser mit einem lebhaften Add-On Ökosystem.",
     "license_url": "https://www.mozilla.org/MPL/",
-    "logo": "fennec-fdroid.png",
-    "notes": "Fennec FDroid does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Orbot.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" if you don't want Mozilla to send reported URL hashes to Google.",
+    "logo": "mozilla-firefox.png",
+    "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Onion Browser.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.",
+    "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
+    "source_url": "https://github.com/mozilla-mobile/firefox-ios",
+    "name": "Firefox for iOS",
+    "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
+    "url": "https://www.mozilla.org/firefox/ios/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox_for_iOS",
+    "protocols": [
+      "SSL/TLS"
+    ],
+    "categories": [
+      {
+        "name": "iOS",
+        "subcategories": [
+          "Web Browsers"
+        ]
+      }
+    ],
+    "slug": "firefox-ios"
+  },
+  {
+    "development_stage": "released",
+    "description": "Schneller, flexibler und sicherer Browser mit einem lebhaften Add-On Ökosystem.",
+    "license_url": "https://www.mozilla.org/MPL/",
+    "logo": "mozilla-firefox.png",
+    "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Orbot.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" if you don't want Mozilla to send reported URL hashes to Google.",
     "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
     "source_url": "http://hg.mozilla.org/mobile-browser/",
-    "name": "Fennec FDroid",
+    "name": "Firefox for Android",
     "tos_url": "https://www.mozilla.org/en-US/about/legal.html",
-    "url": "https://f-droid.org/repository/browse/?fdid=org.mozilla.fennec_fdroid",
+    "url": "https://f-droid.org/repository/browse/?fdid=org.mozilla.firefox",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox_for_mobile",
     "protocols": [
       "SSL/TLS"
@@ -1855,36 +1749,7 @@
         ]
       }
     ],
-    "slug": "fennec-fdroid"
-  },
-  {
-    "development_stage": "released",
-    "description": "Firefox OS ist ein freies, quelloffenes Betriebssystem für Android-kompatible Smartphones und Tablets.",
-    "license_url": "https://www.mozilla.org/en-US/foundation/licensing/",
-    "logo": "mozilla-firefox.png",
-    "notes": "",
-    "privacy_url": "",
-    "source_url": "https://github.com/mozilla-b2g",
-    "name": "Firefox OS",
-    "tos_url": "",
-    "url": "https://www.mozilla.org/en-US/firefox/os/",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox_OS",
-    "protocols": [],
-    "categories": [
-      {
-        "name": "Android",
-        "subcategories": [
-          "Operating Systems (Mobile)"
-        ]
-      },
-      {
-        "name": "iOS",
-        "subcategories": [
-          "Operating Systems (Mobile)"
-        ]
-      }
-    ],
-    "slug": "firefox-os"
+    "slug": "firefox-mobile"
   },
   {
     "development_stage": "released",
@@ -1907,7 +1772,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -1982,7 +1847,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Anonymizing Networks"
         ]
@@ -2001,6 +1866,35 @@
       }
     ],
     "slug": "freenet"
+  },
+  {
+    "development_stage": "released",
+    "description": "FreeOTP is a two-factor authentication application for systems utilizing one-time password protocols.",
+    "license_url": "https://fedorahosted.org/freeotp/browser/android/COPYING",
+    "logo": "freeotp.png",
+    "notes": "FreeOTP adds a second layer of security for your online accounts. This works by generating one-time passwords on your mobile devices which can be used in conjunction with your normal password to make your login nearly impossible to hack.",
+    "privacy_url": "",
+    "source_url": "https://fedorahosted.org/freeotp/browser/android",
+    "name": "FreeOTP",
+    "tos_url": "",
+    "url": "https://fedorahosted.org/freeotp/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/FreeOTP",
+    "protocols": [],
+    "categories": [
+      {
+        "name": "Android",
+        "subcategories": [
+          "Authentication"
+        ]
+      },
+      {
+        "name": "iOS",
+        "subcategories": [
+          "Authentication"
+        ]
+      }
+    ],
+    "slug": "freeotp"
   },
   {
     "development_stage": "released",
@@ -2044,7 +1938,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "SIP Servers"
         ]
@@ -2198,7 +2092,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -2241,7 +2135,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "File Storage & Sync"
         ]
@@ -2305,7 +2199,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -2348,7 +2242,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Encryption"
         ]
@@ -2422,7 +2316,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Anonymizing Networks"
         ]
@@ -2518,7 +2412,7 @@
   },
   {
     "development_stage": "released",
-    "description": "OpenPGP-Add-on für die OS X Mail-App.",
+    "description": "OpenPGP-Add-on für die macOS Mail-App.",
     "license_url": "https://github.com/GPGTools/MacGPG2/blob/dev/LICENSE.txt",
     "logo": "gpgtools.png",
     "notes": "",
@@ -2533,7 +2427,7 @@
     ],
     "categories": [
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Encryption"
         ]
@@ -2593,7 +2487,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "IRC"
         ]
@@ -2642,7 +2536,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -2673,6 +2567,12 @@
     ],
     "categories": [
       {
+        "name": "Android",
+        "subcategories": [
+          "Anonymizing Networks"
+        ]
+      },
+      {
         "name": "BSD",
         "subcategories": [
           "Anonymizing Networks"
@@ -2685,7 +2585,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Anonymizing Networks"
         ]
@@ -2744,7 +2644,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mail Servers"
         ]
@@ -2803,7 +2703,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mail Servers"
         ]
@@ -2828,13 +2728,13 @@
     "description": "Ixquick ist eine Metasuchmaschine, angesiedelt in New York und den Niederlanden.",
     "license_url": "",
     "logo": "ixquick.png",
-    "notes": "Ixquick returns the top ten results from multiple search engines.\n\n In contrast to ixquick.com, its sibling project Startpage.com offer results from the Google search engine.\n\n It also provides the stand-alone Ixquick Proxy service that allows users to open search results via proxy.",
-    "privacy_url": "https://ixquick.com/eng/privacy-policy.html",
+    "notes": "Ixquick returns the top ten results from multiple search engines.\n\n In contrast to ixquick.eu, its sibling project Startpage.com offer results from the Google search engine.\n\n It also provides the stand-alone Ixquick Proxy service that allows users to open search results via proxy.",
+    "privacy_url": "https://ixquick.eu/eng/privacy-policy.html",
     "source_url": "",
     "name": "Ixquick",
     "tos_url": "",
-    "url": "https://ixquick.com/",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ixquick#Startpage.com",
+    "url": "https://ixquick.eu/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ixquick",
     "protocols": [
       "SSL/TLS"
     ],
@@ -2875,7 +2775,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Instant Messaging",
           "Video & Voice"
@@ -2924,7 +2824,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems (Live)"
         ]
@@ -2968,7 +2868,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browsers"
         ]
@@ -3052,7 +2952,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "SIP Servers"
         ]
@@ -3122,7 +3022,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Password Managers"
         ]
@@ -3179,7 +3079,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mail Servers"
         ]
@@ -3232,7 +3132,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "File Storage & Sync"
         ]
@@ -3392,7 +3292,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mesh Networks"
         ]
@@ -3461,7 +3361,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Video & Voice"
         ]
@@ -3520,7 +3420,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Finance"
         ]
@@ -3565,7 +3465,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Encryption",
           "Web Browser Addons"
@@ -3602,7 +3502,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "World Maps"
         ]
@@ -3644,11 +3544,11 @@
   {
     "development_stage": "released",
     "description": "Meta-Suchmaschine, die Deine Suchanfrage an verschiedene Suchanbieter weiterleitet.",
-    "license_url": "",
+    "license_url": "https://gitlab.metager3.de/open-source/MetaGer/blob/development/LICENSE",
+    "source_url": "https://gitlab.metager3.de/open-source/MetaGer", 
+    "notes": "No use of Cookies, Session IDs or anything else. Free Proxy, server side anonymisation of IP addresses, Tor branch.", 
     "logo": "metager.png",
-    "notes": "",
-    "privacy_url": "https://www.metager.de/en/privacy.html",
-    "source_url": "",
+    "privacy_url": "https://metager.de/en/datenschutz",
     "name": "MetaGer",
     "tos_url": "",
     "url": "https://metager.de/en/",
@@ -3692,6 +3592,59 @@
     "slug": "metronome"
   },
   {
+    "development_stage": "experimental",
+    "description": "Monero is a secure, private, untraceable P2P currency.",
+    "license_url": "https://github.com/monero-project/monero/blob/master/LICENSE",
+    "logo": "monero.png",
+    "notes": "Please note that new, digital currencies may be volatile. Complete loss of your investment is possible for a number of reasons (software errors or attacks, identity theft, etc.). Be prepared!",
+    "privacy_url": "https://getmonero.org/legal/privacy",
+    "source_url": "https://github.com/monero-project/monero",
+    "name": "Monero",
+    "tos_url": "",
+    "url": "https://getmonero.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monero_(cryptocurrency)",
+    "protocols": [],
+    "categories": [
+      {
+        "name": "Android",
+        "subcategories": [
+          "Finance"
+        ]
+      },
+      {
+        "name": "BSD",
+        "subcategories": [
+          "Finance"
+        ]
+      },
+      {
+        "name": "iOS",
+        "subcategories": [
+          "Finance"
+        ]
+      },
+      {
+        "name": "GNU/Linux",
+        "subcategories": [
+          "Finance"
+        ]
+      },
+      {
+        "name": "macOS",
+        "subcategories": [
+          "Finance"
+        ]
+      },
+      {
+        "name": "Windows",
+        "subcategories": [
+          "Finance"
+        ]
+      }
+    ],
+    "slug": "monero"
+  },
+  {
     "development_stage": "released",
     "description": "Privater, dezentralisierter Sozialnetzwerk-Server.",
     "license_url": "https://github.com/edhelas/movim/blob/master/COPYING",
@@ -3728,7 +3681,7 @@
     "description": "Schneller, flexibler und sicherer Browser mit einem lebhaften Add-On Ökosystem.",
     "license_url": "https://www.mozilla.org/MPL/",
     "logo": "mozilla-firefox.png",
-    "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (OS X) if you don't want Mozilla to send reported URL hashes to Google.",
+    "notes": "Firefox does not hide your IP address from third-parties by default. If you want to anonymize your IP, consider using Tor Browser Bundle instead.\n\nFirefox sends searches through Google by default. Consider changing it to DuckDuckGo or Startpage for anonymous web searches.\n\nConsidering unchecking \"Block reported attack sites\" and \"Block reported web forgeries\" in Tools -> Options -> Security (Windows & GNU/Linux) or Preferences -> Security (macOS) if you don't want Mozilla to send reported URL hashes to Google.",
     "privacy_url": "https://www.mozilla.org/en-US/privacy/policies/websites/",
     "source_url": "https://developer.mozilla.org/en-US/docs/Viewing_and_searching_Mozilla_source_code_online",
     "name": "Mozilla Firefox",
@@ -3752,7 +3705,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browsers"
         ]
@@ -3805,7 +3758,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Clients",
           "Instant Messaging",
@@ -3859,7 +3812,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Video & Voice"
         ]
@@ -3908,7 +3861,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "DNS"
         ]
@@ -3943,7 +3896,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -3978,6 +3931,12 @@
     "protocols": [],
     "categories": [
       {
+        "name": "Android",
+        "subcategories": [
+          "Web Browser Addons"
+        ]
+      },
+      {
         "name": "BSD",
         "subcategories": [
           "Web Browser Addons"
@@ -3990,7 +3949,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -4052,7 +4011,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "DNS"
         ]
@@ -4133,7 +4092,7 @@
     "source_url": "https://github.com/open-keychain/open-keychain",
     "name": "OpenKeychain",
     "tos_url": "",
-    "url": "http://www.openkeychain.org/",
+    "url": "https://www.openkeychain.org/",
     "wikipedia_url": "",
     "protocols": [
       "GPG"
@@ -4175,7 +4134,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "World Maps"
         ]
@@ -4239,7 +4198,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -4307,6 +4266,12 @@
     ],
     "categories": [
       {
+        "name": "Routers",
+        "subcategories": [
+          "DNS"
+        ]
+      },
+      {
         "name": "Web Services",
         "subcategories": [
           "DNS"
@@ -4359,7 +4324,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -4437,7 +4402,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "VPN Clients"
         ]
@@ -4625,7 +4590,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "File Storage & Sync"
         ]
@@ -4666,7 +4631,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -4884,12 +4849,6 @@
     "protocols": [],
     "categories": [
       {
-        "name": "Android",
-        "subcategories": [
-          "Web Browser Addons"
-        ]
-      },
-      {
         "name": "BSD",
         "subcategories": [
           "Web Browser Addons"
@@ -4902,7 +4861,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -4941,7 +4900,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Instant Messaging"
         ]
@@ -5010,7 +4969,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Instant Messaging"
         ]
@@ -5093,7 +5052,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -5134,7 +5093,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -5246,7 +5205,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -5294,7 +5253,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Alternatives",
           "Instant Messaging",
@@ -5335,7 +5294,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Instant Messaging"
         ]
@@ -5348,6 +5307,125 @@
       }
     ],
     "slug": "ricochet"
+  },
+  {
+    "development_stage": "experimental",
+    "description": "Ring is a secure and distributed voice, video and chat communication platform that requires no centralized server and leaves the power of privacy in the hands of the user.",
+    "license_url": "https://github.com/savoirfairelinux/ring-project/blob/master/COPYING",
+    "logo": "ring.png",
+    "notes": "",
+    "privacy_url": "",
+    "source_url": "https://github.com/savoirfairelinux/ring-project",
+    "name": "Ring",
+    "tos_url": "",
+    "url": "https://ring.cx/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ring_(software)",
+    "protocols": [],
+    "categories": [
+      {
+        "name": "Android",
+        "subcategories": [
+          "Instant Messaging",
+          "Video & Voice"
+        ]
+      },
+      {
+        "name": "GNU/Linux",
+        "subcategories": [
+          "Instant Messaging",
+          "Video & Voice"
+        ]
+      },
+      {
+        "name": "macOS",
+        "subcategories": [
+          "Instant Messaging",
+          "Video & Voice"
+        ]
+      },
+      {
+        "name": "Windows",
+        "subcategories": [
+          "Instant Messaging",
+          "Video & Voice"
+        ]
+      }
+    ],
+    "slug": "ring"
+  },
+  {
+    "development_stage": "experimental",
+    "description": "Riot is a secure collaboration app for group chat, file transfer and voice/video conferencing built on the decentralized Matrix ecosystem, providing bridges and integrations to centralized services such as IRC, Slack, Gitter, etc",
+    "license_url": "https://github.com/vector-im/vector-web/blob/master/LICENSE",
+    "logo": "riot.png",
+    "notes": "End-to-end encryption is in beta on Web as of Nov 5th 2016, with other platforms following week of Nov 14th",
+    "privacy_url": "",
+    "source_url": "https://github.com/vector-im",
+    "name": "Riot",
+    "tos_url": "",
+    "url": "https://riot.im/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matrix_(communication_protocol)",
+    "protocols": [
+      "SSL/TLS",
+      "Matrix"
+    ],
+    "categories": [
+      {
+        "name": "Android",
+        "subcategories": [
+          "Instant Messaging",
+          "IRC",
+          "Email Alternatives",
+          "Video & Voice"
+        ]
+      },
+      {
+        "name": "iOS",
+        "subcategories": [
+          "Instant Messaging",
+          "IRC",
+          "Email Alternatives",
+          "Video & Voice"
+        ]
+      },
+      {
+        "name": "BSD",
+        "subcategories": [
+          "Instant Messaging",
+          "IRC",
+          "Email Alternatives",
+          "Video & Voice"
+        ]
+      },
+      {
+        "name": "GNU/Linux",
+        "subcategories": [
+          "Instant Messaging",
+          "IRC",
+          "Email Alternatives",
+          "Video & Voice"
+        ]
+      },
+      {
+        "name": "macOS",
+        "subcategories": [
+          "Instant Messaging",
+          "IRC",
+          "Email Alternatives",
+          "Video & Voice"
+        ]
+      },
+      {
+        "name": "Windows",
+        "subcategories": [
+          "Instant Messaging",
+          "IRC",
+          "Email Alternatives",
+          "Video & Voice"
+        ]
+      }
+    ],
+    "slug": "riot"
   },
   {
     "development_stage": "released",
@@ -5484,7 +5562,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -5623,7 +5701,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "File Storage & Sync"
         ]
@@ -5648,7 +5726,7 @@
     "description": "Private, aufzeichnungsfreie Websuchen.",
     "license_url": "",
     "logo": "startpage.png",
-    "notes": "Startpage ist ein Softwaredienst ([SaaS](https://de.wikipedia.org/wiki/SaaS)), der in den USA und den Niederlanden gehostet wird. Er bietet anonymisierte Google Web- und Bildersuche durch einen freien Proxy. Its sibling project ixquick.com, however, offer results from other search engine.\n\n Ixquick also provides the stand-alone Ixquick Proxy service that allows users to open search results via proxy.\n\n As of February 19, 2015, Startpage.com is the default search engine in the Tor Browser.",
+    "notes": "Startpage ist ein Softwaredienst ([SaaS](https://de.wikipedia.org/wiki/SaaS)), der in den USA und den Niederlanden gehostet wird. Er bietet anonymisierte Google Web- und Bildersuche durch einen freien Proxy. Its sibling project ixquick.eu, however, offer results from other search engine.\n\n Ixquick also provides the stand-alone Ixquick Proxy service that allows users to open search results via proxy.\n\n As of February 19, 2015, Startpage.com is the default search engine in the Tor Browser.",
     "privacy_url": "https://startpage.com/eng/protect-privacy.html",
     "source_url": "",
     "name": "Startpage",
@@ -5722,7 +5800,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Clients"
         ]
@@ -5771,7 +5849,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "File Storage & Sync"
         ]
@@ -5807,7 +5885,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Anonymizing Networks",
           "Social Networks"
@@ -5870,6 +5948,7 @@
       "SSL/TLS",
       "OTR",
       "Tor",
+      "I2P",
       "XMPP"
     ],
     "categories": [
@@ -5886,7 +5965,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems (Live)"
         ]
@@ -5975,7 +6054,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Mesh Networks"
         ]
@@ -6044,7 +6123,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Anonymizing Networks"
         ]
@@ -6094,7 +6173,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browsers"
         ]
@@ -6137,7 +6216,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Email Encryption"
         ]
@@ -6182,7 +6261,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Instant Messaging",
           "Video & Voice"
@@ -6200,7 +6279,7 @@
   },
   {
     "development_stage": "released",
-    "description": "Tunnelblick is a free, open source graphic user interface for OpenVPN on OS X. It provides easy control of OpenVPN client and/or server connections.",
+    "description": "Tunnelblick is a free, open source graphic user interface for OpenVPN on macOS. It provides easy control of OpenVPN client and/or server connections.",
     "license_url": "https://github.com/Tunnelblick/Tunnelblick/blob/master/tunnelblick/COPYING",
     "logo": "tunnelblick.png",
     "notes": "",
@@ -6213,7 +6292,7 @@
     "protocols": [],
     "categories": [
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "VPN Clients"
         ]
@@ -6248,7 +6327,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Browser Addons"
         ]
@@ -6397,7 +6476,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Bookmark Sync"
         ]
@@ -6446,7 +6525,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "IRC"
         ]
@@ -6465,7 +6544,7 @@
     "description": "Ein Betriebssystem, das auf Tor, Anonymität, Privatsphäre und Sicherheit setzt. Es bietet anwendungsbereite VM-Images.",
     "license_url": "https://github.com/Whonix/Whonix/blob/master/GPLv3",
     "logo": "whonix.png",
-    "notes": "Whonix ist dafür vorgesehen, in einer virtuellen Maschine wie z.V. [VirtualBox](https://www.virtualbox.org/) zu laufen. VirtualBox kann auf Windows, Linux, OS X, und Solaris installiert werden. Solltest du also aus welchen Gründen auch immer auf Windows oder OS X angewiesen sein, kannst du innerhalb einer VirtualBox mit Whonix trotzdem mehr Privatssphäre und Sicherheit genießen.",
+    "notes": "Whonix ist dafür vorgesehen, in einer virtuellen Maschine wie z.V. [VirtualBox](https://www.virtualbox.org/) zu laufen. VirtualBox kann auf Windows, Linux, macOS, und Solaris installiert werden. Solltest du also aus welchen Gründen auch immer auf Windows oder macOS angewiesen sein, kannst du innerhalb einer VirtualBox mit Whonix trotzdem mehr Privatssphäre und Sicherheit genießen.",
     "privacy_url": "",
     "source_url": "https://github.com/Whonix/Whonix/",
     "name": "Whonix",
@@ -6483,7 +6562,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Operating Systems"
         ]
@@ -6570,7 +6649,7 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Web Search"
         ]
@@ -6661,12 +6740,89 @@
         ]
       },
       {
-        "name": "OS X",
+        "name": "macOS",
         "subcategories": [
           "Password Managers"
         ]
       }
     ],
     "slug": "password-store"
+  },
+  {
+   "development_stage": "released",
+   "description": "The most comprehensive and integrated Free / Libre / Open Source software suite ever developed.",
+   "license_url": "http://wikisuite.org/License",
+   "logo": "wikisuiteorg-logo.png",
+   "notes": "",
+   "privacy_url": "",
+   "source_url": "http://wikisuite.org/Source",
+   "name": "WikiSuite",
+   "tos_url": "",
+   "url": "http://wikisuite.org/",
+   "wikipedia_url": "",
+   "protocols": [
+     "XMPP",
+     "CardDAV",
+     "SIP"
+   ],
+   "categories": [
+     {
+       "name": "Servers",
+       "subcategories": [
+         "Enterprise Suite"
+       ]
+     }
+   ],
+   "slug": "wikisuite"
+  },
+  {
+    "development_stage": "released",
+    "description": "Self-hosted, zero-knowledge, real-time collaborative documents.",
+    "license_url": "https://github.com/xwiki-labs/cryptpad/blob/master/LICENSE",
+    "logo": "cryptpad.png",
+    "notes": "Encryption carried out in your web browser protects the data from the server, the cloud, and the NSA. The secret encryption key is stored in the URL fragment identifier which is never sent to the server but is available to javascript, so by sharing the URL, you give authorization to others who want to participate. Users must still take care to share links over an end-to-end-encrypted medium for best effect.",
+    "privacy_url": "https://cryptpad.fr/privacy.html",
+    "source_url": "https://github.com/xwiki-labs/cryptpad",
+    "name": "Cryptpad",
+    "tos_url": "https://cryptpad.fr/terms.html",
+    "url": "https://cryptpad.fr",
+    "wikipedia_url": "",
+    "protocols": [
+      "SSL/TLS"
+    ],
+    "categories": [
+      {
+        "name": "Web Services",
+        "subcategories": [
+          "Productivity"
+        ]
+      }
+    ],
+    "slug": "cryptpad"
+  },
+  {
+    "development_stage": "released",
+    "description": " Android application compatible with ZX2C4's Pass command line application.",
+    "license_url": "https://github.com/zeapo/Android-Password-Store/blob/master/LICENSE.txt",
+    "logo": "android-password-store.png",
+    "notes": "",
+    "privacy_url": "",
+    "source_url": "https://github.com/zeapo/Android-Password-Store",
+    "name": "Password Store",
+    "tos_url": "",
+    "url": "https://github.com/zeapo/Android-Password-Store/blob/master/README.md",
+    "wikipedia_url": "",
+    "protocols": [
+      "GPG"
+    ],
+    "categories": [
+      {
+        "name": "Android",
+        "subcategories": [
+          "Password Managers"
+        ]
+      }
+    ],
+    "slug": "android-password-store"
   }
 ]
